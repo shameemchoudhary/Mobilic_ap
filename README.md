@@ -1,2 +1,5 @@
 # Mobilic_ap
-shopping app only for mobiles
+Shopping app only for mobiles
+Built in Android Studio
+Database used is Firebase.
+
